@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   fill="none"
+   version="1.1"
+   id="svg21"
+   sodipodi:docname="icon.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="icons/icon16.png"
+   inkscape:export-xdpi="39.485859"
+   inkscape:export-ydpi="39.485859"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="15.129139"
+     inkscape:cx="20.291968"
+     inkscape:cy="31.098928"
+     inkscape:window-width="1607"
+     inkscape:window-height="1230"
+     inkscape:window-x="710"
+     inkscape:window-y="121"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg21" />
+  <!-- Background -->
+  <!-- Focus ring (glowing effect) -->
+  <circle
+     cx="24"
+     cy="24"
+     r="18"
+     stroke="#00ff00"
+     stroke-width="2"
+     fill="none"
+     opacity="0.6"
+     id="circle4"
+     style="stroke:#ff006c;stroke-opacity:1;stroke-width:2.9;stroke-dasharray:none" />
+  <circle
+     cx="24"
+     cy="24"
+     r="18"
+     stroke="#00ff00"
+     stroke-width="2"
+     fill="none"
+     opacity="0.6"
+     id="circle4-6"
+     style="stroke:#ff0000;stroke-width:2.9;stroke-dasharray:none;stroke-opacity:0.21891892;fill:#ffffff;fill-opacity:1;opacity:1" />
+  <path
+     id="circle6"
+     style="stroke:#ff2271;stroke-width:2.59838;stroke-dasharray:none;stroke-opacity:0.6"
+     d="M 23.221447,8.8643555 C 17.302712,9.1464936 11.733238,13.197643 9.7787227,18.815677 7.8325554,24.054312 9.0819966,30.321802 12.961905,34.361538 c 3.6351,3.92051 9.419485,5.655713 14.607935,4.350495 5.139634,-1.22624 9.469821,-5.306911 10.947887,-10.387201 C 40.114018,23.023705 38.578366,16.884563 34.511606,13.08754 31.538438,10.216428 27.348921,8.6507948 23.221447,8.8643555 Z" />
+  <!-- YouTube Play Button (triangle) -->
+  <path
+     d="M 31.895955,22.608997 21.030306,15.65635 a 1.0946476,1.0946476 151.30706 0 0 -1.684639,0.922043 v 14.21712 a 1.0946477,1.0946477 28.69294 0 0 1.684639,0.922043 l 10.865649,-6.952645 a 1.279748,1.279748 90.000003 0 0 0,-2.155914 z"
+     fill="#ff0000"
+     id="path8"
+     style="stroke-width:1.20027;fill:#ff1a43;fill-opacity:0.75675672"
+     inkscape:path-effect="#path-effect12257"
+     inkscape:original-d="M 33.580594,23.686954 19.345667,14.578393 v 18.21712 z" />
+  <!-- Inner white play triangle (for contrast) -->
+  <!-- Gradient for red play button -->
+  <defs
+     id="defs19">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect12257"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="2"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <linearGradient
+       id="paint0_linear"
+       x1="20"
+       y1="16"
+       x2="32"
+       y2="31"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3949203,0,0,1.1994158,-11.637455,-3.1906523)">
+      <stop
+         stop-color="#ff0000"
+         id="stop14" />
+      <stop
+         offset="1"
+         stop-color="#cc0000"
+         id="stop16" />
+    </linearGradient>
+  </defs>
+</svg>
