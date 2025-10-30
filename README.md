@@ -1,4 +1,5 @@
-Privacy Policy – YouTube Auto-Focus Player
+# Privacy Policy – YouTube Auto-Focus Player
+
 Effective: October 29, 2025
 
 1. No Data Collection
