@@ -1,8 +1,8 @@
 {
 	"manifest_version": 3,
 	"name": "YouTube Auto-Focus",
-	"version": "1.0",
-	"description": "Automatically focuses the YouTube video player so keyboard controls work instantly.",
+	"version": "1.0.1",
+	"description": "-",
 	"icons": {
 		"16": "icons/icon16.png",
 		"48": "icons/icon48.png",
